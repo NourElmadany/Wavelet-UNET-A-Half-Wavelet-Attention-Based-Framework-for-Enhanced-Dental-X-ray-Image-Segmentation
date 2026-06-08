@@ -20,12 +20,6 @@ Dental X-ray image segmentation is a critical step in automated computer-aided d
 * **Enhanced Edge Preservation:** Specifically designed to delineate complex dental structures with high precision.
 
 
----
 
-
-
-
-
-*Figure 1: Overall architecture of the proposed Wavelet-UNET framework, highlighting the integration of the Half-Wavelet Attention blocks.*
 
 
