@@ -18,7 +18,7 @@ Dental X-ray image segmentation is a critical step in automated computer-aided d
 ### ✨ Key Features
 * **Half-Wavelet Attention Block:** Efficiently focuses on critical spatial features by separating frequency sub-bands.
 * **Enhanced Edge Preservation:** Specifically designed to delineate complex dental structures with high precision.
-* **Plug-and-Play:** Easily adaptable to other medical image segmentation tasks.
+
 
 ---
 
