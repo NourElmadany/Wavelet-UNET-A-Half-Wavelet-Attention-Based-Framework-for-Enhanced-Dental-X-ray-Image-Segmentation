@@ -22,11 +22,9 @@ Dental X-ray image segmentation is a critical step in automated computer-aided d
 
 ---
 
-## 🏗️ Architecture
 
-*(Replace the URL below with a link to your actual architecture diagram hosted in your repo, e.g., `assets/architecture.png`)*
 
-![Wavelet-UNET Architecture](https://via.placeholder.com/800x400?text=Insert+Wavelet-UNET+Architecture+Diagram+Here)
+
 
 *Figure 1: Overall architecture of the proposed Wavelet-UNET framework, highlighting the integration of the Half-Wavelet Attention blocks.*
 
